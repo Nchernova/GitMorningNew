@@ -203,4 +203,3 @@ return shell_exec("echo $input | $markdown
 _script");
 ```
 
-T
